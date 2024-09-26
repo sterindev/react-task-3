@@ -1,0 +1,14 @@
+From: The OMDb API <donotreply@omdbapi.com>
+
+Subject: API Key
+To: <sterin453@gmail.com>
+
+
+Here is your key: 29224215
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=29224215
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=e63cfe80-57fa-4db5-b7db-75f217bbd331
+If you did not make this request, please disregard this email.
